@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-I'm **Arigila Samith**, an aspiring AI/ML engineer. I specialize in building intelligent systems that transition seamlessly from concept to production. My work spans:
+I'm **Arigila Samith**, an aspiring AI/ML engineer pursuing my undergraduate degree at IIT Kharagpur. I specialize in building intelligent systems that transition seamlessly from concept to production. My work spans:
 
 - **LLM-Powered Agents**: Multi-agent frameworks using LangChain and vector search.
 - **Production ML**: Real-world pipelines with monitoring, retraining, and secure cloud deployment.
