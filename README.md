@@ -82,6 +82,6 @@ I’m actively looking for:
 ## 📫 Reach Me Here
 
 - 📧 **Email:** [samith881990@gmail.com](mailto:samith881990@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/arigilasamith](www.linkedin.com/in/arigilasamith)
+- 💼 **LinkedIn:** [linkedin.com/in/arigilasamith](linkedin.com/in/arigilasamith)
 
 ---
