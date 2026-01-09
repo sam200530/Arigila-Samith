@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-I'm **Ranjit N**, an aspiring AI/ML engineer currently pursuing an Integrated M.Sc. in Data Science. I specialize in building intelligent systems that transition seamlessly from concept to production. My work spans:
+I'm **Arigila Samith**, an aspiring AI/ML engineer. I specialize in building intelligent systems that transition seamlessly from concept to production. My work spans:
 
 - **LLM-Powered Agents**: Multi-agent frameworks using LangChain and vector search.
 - **Production ML**: Real-world pipelines with monitoring, retraining, and secure cloud deployment.
@@ -81,7 +81,7 @@ I’m actively looking for:
 
 ## 📫 Reach Me Here
 
-- 📧 **Email:** [ranjitn.dev@gmail.com](mailto:ranjitn.dev@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/ranjit-n](https://linkedin.com/in/ranjit-n)
+- 📧 **Email:** [samith881990@gmail.com](mailto:samith881990@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/arigilasamith](www.linkedin.com/in/arigilasamith)
 
 ---
