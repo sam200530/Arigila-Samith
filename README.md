@@ -14,8 +14,7 @@ I'm **Arigila Samith**, an aspiring AI/ML engineer pursuing my undergraduate deg
 ### 🔣 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C++](<img width="212" height="238" alt="image" src="https://github.com/user-attachments/assets/f87644b4-fe61-49fd-87ee-b1fb9561c52c" />)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ### 🧠 AI/ML & Deep Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
